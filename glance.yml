@@ -16,6 +16,10 @@ pages:
                     url: http://100.69.208.50:8008
                   - title: cronin.one
                     url: https://cronin.one
+              - title: dcron.in
+                links:
+                  - title: PVE
+                    url: http://dcron.in:8006
               - title: General
                 links:
                   - title: Google
