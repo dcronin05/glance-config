@@ -22,6 +22,8 @@ pages:
                 links:
                   - title: PVE
                     url: http://dcron.in:8006
+                  - title: dcron.in
+                    url: https://dcron.in
               - title: General
                 links:
                   - title: Google
