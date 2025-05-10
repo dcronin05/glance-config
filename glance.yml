@@ -12,6 +12,8 @@ pages:
             groups:
               - title: Tower
                 links:
+                  - title: Gateway
+                    url: http://192.168.1.254
                   - title: WebUI
                     url: http://100.69.208.50:8008
                   - title: Tower VMs
