@@ -26,6 +26,10 @@ pages:
                     url: http://dcron.in:8006
                   - title: dcron.in
                     url: https://dcron.in
+              - title: Seedbox
+                links:
+                  - title: Control Panel
+                    url: https://cp.ultraseedbox.com
               - title: General
                 links:
                   - title: Google
