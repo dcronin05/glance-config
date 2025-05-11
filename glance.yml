@@ -50,6 +50,8 @@ pages:
                   url: https://nzbz.su
                 - title: sabnzbd
                   url: https://gpantz.castor.usbx.me/sabnzbd
+                - title: Transmission
+                  url: https://gpantz.castor.usbx.me/transmission
             - title: General
               links:
                 - title: Helper Scripts
