@@ -4,7 +4,7 @@ pages:
     hide-desktop-navigation: true
     center-vertically: true
     columns:
-      - size: small
+      - size: full
         widgets:
           - type: calendar
             first-day-of-week: monday
