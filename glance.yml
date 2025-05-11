@@ -46,3 +46,6 @@ pages:
                   url: https://github.com/community-scripts/ProxmoxVE
   - name: bookmarks
     width: slim
+    columns:
+      - size: full
+      
