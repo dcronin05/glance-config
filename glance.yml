@@ -10,7 +10,7 @@ pages:
             first-day-of-week: monday
 
           - type: weather
-            location: Little Rock, United States
+            # location: Little Rock, United States
             units: imperial # alternatively "imperial"
             hour-format: 24h # alternatively "24h"
 
