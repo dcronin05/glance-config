@@ -44,3 +44,5 @@ pages:
               links:
                 - title: Helper Scripts
                   url: https://github.com/community-scripts/ProxmoxVE
+  - name: bookmarks
+    width: slim
