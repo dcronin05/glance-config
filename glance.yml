@@ -40,6 +40,16 @@ pages:
               links:
                 - title: Control Panel
                   url: https://cp.ultraseedbox.com
+                - title: radarr
+                  url: https://gpantz.castor.usbx.me/radarr
+                - title: sonarr
+                  url: https://gpantz.castor.usbx.me/sonarr
+                - title: prowlarr
+                  url: https://gpantz.castor.usbx.me/prowlarr
+                - title: nzb.su
+                  url: https://nzbz.su
+                - title: sabnzbd
+                  url: https://gpantz.castor.usbx.me/sabnzbd
             - title: General
               links:
                 - title: Helper Scripts
