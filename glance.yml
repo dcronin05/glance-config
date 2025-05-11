@@ -1,5 +1,5 @@
 pages:
-  - name: Startpage
+  - name: Front
     width: slim
     hide-desktop-navigation: false
     center-vertically: true
@@ -44,7 +44,9 @@ pages:
               links:
                 - title: Helper Scripts
                   url: https://github.com/community-scripts/ProxmoxVE
-  - name: bookmarks
+                  
+  - name: Bookmarks
     width: slim
+    center-vertically: true
     columns:
       - size: full
