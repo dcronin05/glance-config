@@ -36,6 +36,10 @@ pages:
                   url: http://dcron.in:8006
                 - title: dcron.in
                   url: https://dcron.in
+                - title: GitLab
+                  url: https://gitlab.dcron.in
+                - title: Gitea
+                  url: https://git.dcron.in
             - title: Seedbox
               links:
                 - title: Web Server
