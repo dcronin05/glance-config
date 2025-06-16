@@ -38,6 +38,8 @@ pages:
                   url: https://dcron.in
             - title: Seedbox
               links:
+                - title: Web Server
+                  url: https://gpantz.castor.usbx.me
                 - title: Control Panel
                   url: https://cp.ultraseedbox.com
                 - title: radarr
