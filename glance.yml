@@ -40,6 +40,8 @@ pages:
                   url: https://gitlab.dcron.in
                 - title: Gitea
                   url: https://git.dcron.in
+                - title: Blotters
+                  url: https://blotters.dcron.in
             - title: Seedbox
               links:
                 - title: Web Server
