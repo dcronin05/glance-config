@@ -42,6 +42,8 @@ pages:
                   url: https://git.dcron.in
                 - title: Blotters
                   url: https://blotters.dcron.in
+                - title: Zipline
+                  url: https://zip.dcron.in
             - title: Seedbox
               links:
                 - title: Web Server
@@ -64,7 +66,13 @@ pages:
               links:
                 - title: Helper Scripts
                   url: https://github.com/community-scripts/ProxmoxVE
-
+            - title: Screeps
+              links:
+                - title: Screeps.com
+                  url: https://screeps.com/a/#!/room/shard3/E45N49
+                - title: dcronin05/screeps
+                  url: https://github.com/dcronin05/screeps
+                  
   - name: Bookmarks
     width: slim
     center-vertically: true
