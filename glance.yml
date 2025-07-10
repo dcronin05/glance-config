@@ -73,8 +73,21 @@ pages:
                 - title: dcronin05/screeps
                   url: https://github.com/dcronin05/screeps
                   
-  - name: Bookmarks
+  - name: Work
     width: slim
     center-vertically: true
     columns:
       - size: full
+        widgets:
+        - type: bookmarks
+          groups:
+            - title: USAF SharePoint
+              links:
+                - title: OneDrive
+                  url: https://usaf-my.dps.mil
+                - title: Teams
+                  url: https://dod.teams.microsoft.us/
+            - title: Personal
+              links:
+                - title: OneDrive
+                  url: https://dcronin910-my.sharepoint.com
