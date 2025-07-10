@@ -75,7 +75,6 @@ pages:
                   
   - name: Work
     width: slim
-    # center-vertically: true
     columns:
       - size: full
         widgets:
@@ -87,6 +86,8 @@ pages:
                   url: https://usaf-my.dps.mil
                 - title: Teams
                   url: https://dod.teams.microsoft.us/
+                - title: 19th SFS
+                  url: https://usaf.dps.mil/teams/19thsfs
             - title: Personal
               links:
                 - title: OneDrive
