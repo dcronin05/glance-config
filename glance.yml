@@ -75,7 +75,7 @@ pages:
                   
   - name: Work
     width: slim
-    center-vertically: true
+    # center-vertically: true
     columns:
       - size: full
         widgets:
