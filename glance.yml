@@ -88,6 +88,10 @@ pages:
                   url: https://dod.teams.microsoft.us/
                 - title: 19th SFS
                   url: https://usaf.dps.mil/teams/19thsfs
+            - title: AFSFC SharePoint
+              links:
+                - title: Police Services
+                  url: https://usaf.dps.mil/teams/PoliceServicesOperations
             - title: Personal
               links:
                 - title: OneDrive
