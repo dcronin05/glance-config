@@ -35,6 +35,8 @@ pages:
                   url: http://100.69.208.50:8008/VMs
                 - title: cronin.one
                   url: https://cronin.one
+                - title: convertx
+                  url: https://convert.cronin.one
             - title: dcron.in
               links:
                 - title: PVE
