@@ -35,9 +35,9 @@ pages:
                   url: http://100.69.208.50:8008/VMs
                 - title: cronin.one
                   url: https://cronin.one
-                - title: convertx
+                - title: ConvertX
                   url: https://convert.cronin.one
-                - title: Paperless NGX
+                - title: Paperless-ngx
                   url: https://paper.cronin.one 
             - title: dcron.in
               links:
