@@ -37,6 +37,8 @@ pages:
                   url: https://cronin.one
                 - title: convertx
                   url: https://convert.cronin.one
+                - title: Paperless NGX
+                  url: https://paper.cronin.one 
             - title: dcron.in
               links:
                 - title: PVE
