@@ -1,3 +1,6 @@
+branding:
+  logo-url: 'https://zip.dcron.in/u/OLYsSL.png'
+
 pages:
   - name: dcron.in
     width: slim
