@@ -38,7 +38,9 @@ pages:
                 - title: ConvertX
                   url: https://convert.cronin.one
                 - title: Paperless-ngx
-                  url: https://paper.cronin.one 
+                  url: https://paper.cronin.one
+                - title: syncthing
+                  url: https://st.cronin.one
             - title: dcron.in
               links:
                 - title: PVE
@@ -71,6 +73,8 @@ pages:
                   url: https://gpantz.castor.usbx.me/sabnzbd
                 - title: Transmission
                   url: https://gpantz.castor.usbx.me/transmission
+                - title: syncthing
+                  url: https://gpantz.castor.usbx.me/syncthing
             - title: General
               links:
                 - title: Helper Scripts
