@@ -55,6 +55,8 @@ pages:
                   url: https://blotters.dcron.in
                 - title: Zipline
                   url: https://zip.dcron.in
+                - title: AFFiNE
+                  url: https://docs.dcron.in
             - title: Seedbox
               links:
                 - title: Web Server
