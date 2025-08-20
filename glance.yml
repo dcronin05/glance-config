@@ -41,6 +41,8 @@ pages:
                   url: https://paper.cronin.one
                 - title: syncthing
                   url: https://st.cronin.one
+                - title: ConvertX
+                  url: https://convert.cronin.one
             - title: dcron.in
               links:
                 - title: PVE
